@@ -1,0 +1,5 @@
+Title,Description,Priority,Suite,Tags,Type,Steps,Expected Result,Step 1,Result 1,Step 2,Result 2,Step 3,Result 3
+Test case 1,Sample description,High,Main,"Sample, First, Main",Steps,"Step 1, Step 2",Get result,Step Action 1,Expected results 1,,,,
+Test case 2,Sample description,Normal,Main,"Sample, First, Main",Text,"Step 1, Step 2",Get result,,,,,,
+Test case 3,Sample description,Low,Main,"Sample, First, Main",Steps,"Step 1, Step 2",Get result,Step Action 1,Expected results 1,Step Action 2,Expected results 2,Step Action 3,Expected results 3
+Test case 4,Sample description,High,Main,"Sample, First, Main",Steps,"Step 1, Step 2",Get result,Step Action 1,,,,,
