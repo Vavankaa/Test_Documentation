@@ -1,0 +1,23 @@
+{
+"FirstName": "Ivan",
+"LastName": "Karziuk",
+"Hobbies": ["hunting", "motorcycling", "hookah", "sueta"],
+"Addresses":[
+	{
+	"Type": 1,
+	"Country": "Belarus",
+	"City": "Minsk",
+	"LocalAddresses": "Bratskaya 6"
+	 },
+	{	
+	"Type": 2,
+	"Country": "Russia",
+	"City": "Moscow",
+	"LocalAddresses": "Istrenskiy region"
+	 }
+	],
+"Certificates": "Belhard QA course",
+"Education": "Gymn. N75 named by Maslenikov P.V.",
+"Motorcycles": ["Harley-Davidson Street Glide CVO 2015", "Yamaha Road Star 1600"],
+"Searching for": "QA engineer & QA support job vacancy"
+}
